@@ -1,4 +1,4 @@
-#player1, #player2 {
+#player1, #computer {
     display: inline-block;
     width: 200px;
     height: 140px;
@@ -19,4 +19,11 @@ button {
     padding: 10px;
     text-align: center;
     width: 550px;
+}
+
+.score {
+    width: 550px;
+    font-size: 2em;
+    text-align: center;
+
 }
